@@ -27,4 +27,4 @@ app.post('/posts', (req, res) => {
 
 app.listen(4000, () => {
    console.log('Listening on 4000'); 
-}); //initialize the port 40000 in server for this service
+}); //initialize the port 4000 in server for this service
